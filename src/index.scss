@@ -145,7 +145,24 @@ p, a, h1, h2, h3, h4, h5, label, button {
     color: #0d1116;
   }
 }
+  .MuiInputBase-root {
+    color: #0d1116 !important;
+    background-color: white !important;
+  }
 
+  .MuiInputBase-input {
+    color: #0d1116 !important;
+    background-color: transparent !important;
+  }
+
+  .MuiFormLabel-root {
+    color: #0d1116 !important;
+  }
+  
+  .MuiFormHelperText-root {
+    color: #0d1116 !important;
+  }
+  
 @media screen {
   @media (max-width: 768px) {
     .items-container {
