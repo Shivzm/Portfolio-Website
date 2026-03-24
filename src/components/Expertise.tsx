@@ -12,7 +12,6 @@ const labelsFirst = [
     "HTML5",
     "CSS3",
     "SASS",
-    "Flask",
     "Python",
     "SQL",
     "PostgreSQL",
@@ -24,18 +23,14 @@ const labelsSecond = [
     "GitHub Actions",
     "Docker",
     "AWS",
-    "Azure",
     "Linux",
-    "Snowflake",
     "Pandas",
-    "Selenium",
 ];
 
 const labelsThird = [
     "OpenAI",
     "Groq",
     "LangChain",
-    "Qdrant",
     "Hugging Face",
     "LlamaIndex",
     "Streamlit",
